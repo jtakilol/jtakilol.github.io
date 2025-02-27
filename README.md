@@ -1,4 +1,4 @@
-# jtakilol.github.io
+# Look, a static website!
 
 Welcome to my GitHub Pages website!
 
