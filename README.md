@@ -1,4 +1,5 @@
 # jtakilol.github.io
-title: My GitHub Pages Site;
-description: A simple description of your site
-theme: jekyll-theme-cayman;
+
+Welcome to my GitHub Pages website!
+
+📍 **Visit my website**: [https://jtakilol.github.io](https://jtakilol.github.io)
