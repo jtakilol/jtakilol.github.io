@@ -1,6 +1,20 @@
 title: "Rueben Gill - Portfolio"
 description: "Python Developer | Computer Vision Specialist"
 theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  repository_url: https://github.com/jtakilol/jtakilol.github.io
+baseurl: ""
+url: "https://jtakilol.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-theme-cayman
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
