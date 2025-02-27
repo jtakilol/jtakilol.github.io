@@ -33,15 +33,12 @@ jobs:
           bundle install
 
       - name: Build site
-        run: |
-          bundle exec jekyll build
-          ls -la _site  # Debug: Check if _site directory exists and has content
+        run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site  # Specify exact path
-          retention-days: 1
+          path: ./_site
 
   deploy:
     needs: build
