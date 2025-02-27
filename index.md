@@ -2,9 +2,8 @@
 layout: default
 title: Home
 ---
-{% include navigation.html %}
 
-## Welcome to My Portfolio
+# Welcome to My Portfolio
 
 ## About Me
 
@@ -12,8 +11,8 @@ I'm a passionate developer focused on creating efficient and innovative solution
 
 ## Recent Certifications 🎓
 
-- [Your latest certification]
-- [Another certification]
+- Python Computer Vision Certification
+- PyTorch Certification
 
 ## Featured Projects 💻
 
@@ -29,12 +28,12 @@ Description of another cool project
 
 ## Skills & Technologies 🛠️
 
-- **Languages**: Well, based on the fact this still works; Markdown but i specialise in Python3 with certificates in Computer Vision with Python, PyTorch - check the certificate section if it still works.
-- **Frameworks**: [Your frameworks]
-- **Tools**: [Your tools]
+- **Languages**: Python3, specializing in Computer Vision and PyTorch
+- **Frameworks**: Machine Learning Libraries, Computer Vision Tools
+- **Tools**: Git, GitHub, VS Code
 
 ## Get in Touch 📫
 
 - [GitHub](https://github.com/jtakilol)
 - [LinkedIn](https://www.linkedin.com/in/rueben-gill-2a044934b?)
-- [Email](email:ajax.business1@gmail.com)
+- [Email](mailto:ajax.business1@gmail.com)

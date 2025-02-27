@@ -1,17 +1,6 @@
-title: Your Name - Portfolio
-description: Developer | Problem Solver | Tech Enthusiast
+title: "Rueben Gill - Portfolio"
+description: "Python Developer | Computer Vision Specialist"
 theme: jekyll-theme-cayman
-
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: Certifications
-    url: /certifications
-
-# Social links
-github_username: jtakilol
-linkedin_username: rueben-gill-2a044934b
-email: ajax.business1@gmail.com
+github:
+  is_project_page: true
+  repository_url: https://github.com/jtakilol/jtakilol.github.io
