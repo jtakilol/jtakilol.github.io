@@ -1,4 +1,4 @@
-# Look, a static website!
+# Look, a static website
 
 Welcome to my GitHub Pages website!
 
