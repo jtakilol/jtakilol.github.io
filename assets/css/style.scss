@@ -1,0 +1,23 @@
+@import "jekyll-theme-cayman";
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.nav-menu {
+    margin: 20px 0;
+    padding: 10px 0;
+    border-bottom: 1px solid #eaecef;
+}
+
+.nav-menu a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #24292e;
+}
+
+.nav-menu a:hover {
+    color: #0366d6;
+}

@@ -1,3 +1,17 @@
-title: My GitHub Pages Site
-description: A simple description of your site
-theme: jekyll-theme-cayman
+title: Your Name - Portfolio
+description: Developer | Problem Solver | Tech Enthusiast
+theme: jekyll-theme-minimal
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Certifications
+    url: /certifications
+
+# Social links
+github_username: jtakilol
+linkedin_username: rueben-gill-2a044934b
+email: ajax.business1@gmail.com
