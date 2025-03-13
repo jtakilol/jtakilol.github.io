@@ -18,12 +18,12 @@ I'm a passionate developer focused on creating efficient and innovative solution
 
 ### Project Name
 
-Description of your amazing project
+desc #1
 [View Project](www.google.com) | [GitHub Repo](www.google.com)
 
 ### Another Project
 
-Description of another cool project
+desc #2
 [View Project](www.google.com) | [GitHub Repo](https://github.com/jtakilol/expert-fiesta)
 
 ## Skills & Technologies 🛠️
