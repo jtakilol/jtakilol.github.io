@@ -271,6 +271,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  bundler
   github-pages
   jekyll (~> 3.9.3)
   jekyll-theme-cayman
