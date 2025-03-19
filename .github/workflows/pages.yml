@@ -24,7 +24,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.7'
+          ruby-version: '3.0.0'  # Update to a stable version
           bundler-cache: true
 
       - name: Add x86_64-linux platform to lockfile

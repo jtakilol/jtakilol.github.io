@@ -8,6 +8,7 @@ url: "https://jtakilol.github.io"
 markdown: kramdown
 plugins:
   - jekyll-theme-cayman
+  - jekyll-feed  # Add any additional plugins you are using
 
 # Exclude from processing
 exclude:
