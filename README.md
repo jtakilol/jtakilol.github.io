@@ -11,7 +11,7 @@ A showcase of my professional journey, skills, and projects. This site serves as
 ## Updates
 
 This portfolio is regularly updated with new projects, certifications, and skills.
-Last Updated: March 20, 2025 by Me - Check the [Actions Tab](https://github.com/jtakilol/jtakilol.github.io/actions) on GitHub for full change history.
+Last Updated: March, 2025 by Me - Check the [Actions Tab](https://github.com/jtakilol/jtakilol.github.io/actions) on GitHub for full change history.
 
 ## How to Contribute or want to use this for yourself
 
