@@ -4,7 +4,7 @@ gem "github-pages" # Ensure the GitHub Pages gem is included in the Gemfile
 gem "jekyll" # Ensure Jekyll is included in the Gemfile
 gem "jekyll-theme-cayman" # Ensure the theme is included in the Gemfile
 gem "webrick" # Ensure webrick is included in the Gemfile
-gem "kramdown-parser-gfm" # Ensure kramdown is used for Markdown processing
+gem "kramdown-parser-gfm" # Ensure kramdown is used for Markdown processing Gemfile
 gem "bundler"  # Ensure bundler is included in the Gemfile
 gem "jekyll-feed" # Ensure the Jekyll feed plugin is included in the Gemfile
 gem "jekyll-seo-tag" # Ensure the Jekyll SEO tag plugin is included in the Gemfile
